@@ -1,7 +1,7 @@
 {
     "name": "Orakuru",
     "website": "https://orakuru.io/",
-    "description": "The Orakuru (ora-ku-ru) is Binance Smart Chain’s community owned and operated Oracle. A trustless feed of prices and off-chain data powering the 3.0. Unstoppable, all-seeing.",
+    "description": "The Orakuru (ora-ku-ru) is Binance Smart Chain’s community owned and operated blockchain oracle. A trustless feed of prices and off-chain data powering the 3.0. Unstoppable, all-seeing.",
     "symbol": "ORK",
     "type": "BEP20",
     "decimals": 18,

@@ -2,7 +2,7 @@
     "id": "0x846F52020749715F02AEf25b5d1d65e48945649D",
     "name": "Umbrella Network Token",
     "website": "https://www.umb.network",
-    "description": "Umbrella Network a Community owned, Decentralized Oracle built on Layer 2 for DeFi and Blockchain Applications powered by UMB cryptocurrency",
+    "description": "Umbrella Network a Community owned, Decentralized blockchain oracle built on Layer 2 for DeFi and Blockchain Applications powered by UMB cryptocurrency",
     "explorer": "https://bscscan.com/token/0x846F52020749715F02AEf25b5d1d65e48945649D",
     "decimals": 18,
     "type": "BEP20",

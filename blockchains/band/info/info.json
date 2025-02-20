@@ -1,7 +1,7 @@
 {
     "name": "BandChain",
     "website": "https://bandprotocol.com/",
-    "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
+    "description": "Band Protocol is a cross-chain data blockchain oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
     "explorer": "https://cosmoscan.io/",
     "research": "https://research.binance.com/en/projects/band-protocol",
     "symbol": "BAND",

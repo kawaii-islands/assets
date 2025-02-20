@@ -1,7 +1,7 @@
 {
     "name": "Oraichain Token",
     "website": "https://orai.io",
-    "description": "Oraichain is a data oracle platform that aggregates and connects Artificial Intelligence APIs to smart contracts and regular applications. The world’s first AI-powered data oracle has arrived.",
+    "description": "Oraichain is a data blockchain oracle platform that aggregates and connects Artificial Intelligence APIs to smart contracts and regular applications. The world’s first AI-powered data blockchain oracle has arrived.",
     "explorer": "https://etherscan.io/token/0x4c11249814f11b9346808179cf06e71ac328c1b5",
     "type": "ERC20",
     "symbol": "ORAI",
